@@ -1,8 +1,10 @@
 {
   "NordVPN": {
-    "passwordless": "allowed",
+    "additional-domains": [
+      "nordaccount.com"
+    ],
     "mfa": "allowed",
-    "documentation": "https://support.nordvpn.com/hc/en-us/articles/19442299167889-What-is-MFA-and-how-to-enable-it",
+    "documentation": "https://support.nordvpn.com/hc/articles/19442299167889",
     "categories": "vpn"
   }
 }
