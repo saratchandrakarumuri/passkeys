@@ -1,6 +1,5 @@
 {
   "Ticktick": {
-    "domain": "ticktick.com",
     "documentation": "https://help.ticktick.com/articles/7307588296744370176",
     "mfa": "allowed",
     "categories": "task"
